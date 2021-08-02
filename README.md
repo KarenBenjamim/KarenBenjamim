@@ -1,6 +1,6 @@
 
 
-##Olá! Eu sou a Karen Benjamim!
+Olá! Eu sou a Karen Benjamim!
  <div>
   <a href="https://github.com/KarenBenjamim">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=KarenBenjamim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,8 +13,6 @@
   <img align="right" alt="Kawaii" height="120" width="125" src="https://media1.tenor.com/images/07ee2ff0d53565c402db2cdbe700ae6c/tenor.gif?itemid=14039139">
 </div>
   
-  ##
- 
 <div> 
   <a href="https://discord.gg/DeepScarlett#0147" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/mkarenbenjamim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
