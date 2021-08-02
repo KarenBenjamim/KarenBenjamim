@@ -1,7 +1,7 @@
 
 
 Olá! Eu sou a Karen Benjamim!
- <div>
+ <div style="display: inline_block">
   <a href="https://github.com/KarenBenjamim">
   <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api?username=KarenBenjamim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenBenjamim&layout=compact&langs_count=7&theme=dracula"/>
