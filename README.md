@@ -3,8 +3,8 @@
 Olá! Eu sou a Karen Benjamim!
  <div style="display: inline_block">
   <a href="https://github.com/KarenBenjamim">
-  <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api?username=KarenBenjamim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenBenjamim&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=KarenBenjamim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenBenjamim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,7 +13,7 @@ Olá! Eu sou a Karen Benjamim!
   <img align="right" alt="Kawaii" height="160" width="160" src="https://media.discordapp.net/attachments/871797282738159646/871805705626210355/Webp.net-gifmaker.gif?width=538&height=538">
 </div>
   
-<div> 
+<div style="display: inline_block"> 
  <p></p>
   <a href="https://discord.gg/DeepScarlett#0147" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/mkarenbenjamim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
