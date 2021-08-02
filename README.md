@@ -20,7 +20,7 @@ Olá! Eu sou a Karen Benjamim!
   <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/milainy-karen-b69265163/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/KarenBenjamim/KarenBenjamim/blob/output/github-contribution-grid-snake.svg)
  <img src="https://komarev.com/ghpvc/?username=KarenBenjamim&color=green" alt="KarenBenjamim" /> 
  
 </div>
