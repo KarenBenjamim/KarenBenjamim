@@ -10,7 +10,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Kawaii" src="https://discord.com/channels/@me/871797282738159646/871797392456949770">
+  <img align="right" alt="Kawaii" height="120" width="125" src="https://media1.tenor.com/images/07ee2ff0d53565c402db2cdbe700ae6c/tenor.gif?itemid=14039139">
 </div>
   
   ##
