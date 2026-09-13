@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  Apaixonada por tecnologia, dados e código bonito ✨
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0072FF&center=true&vCenter=true&width=440&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;Bem-vindo(a)+ao+meu+perfil!" alt="typing animation" />
 </p>
 
@@ -76,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarenBenjamim&color=0072FF&style=for-the-badge" alt="Visitor count" />
+  <img src="https://hits.sh/github.com/KarenBenjamim/KarenBenjamim.svg?style=for-the-badge&label=Visitors&color=0072ff" alt="Visitor count" />
 </p>
 
 <p align="center">
