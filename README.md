@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  Apaixonada por tecnologia, dados e código bonito ✨
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0072FF&center=true&vCenter=true&width=440&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;Bem-vindo(a)+ao+meu+perfil!" alt="typing animation" />
 </p>
 
@@ -16,6 +20,18 @@
   <a href="https://www.linkedin.com/in/milainy-karen-b69265163/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=2&width=800" alt="divider" />
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KarenBenjamim&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KarenBenjamim&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C6FF&line=0072FF&point=ffffff" alt="Contribution graph" />
 </p>
 
 <p align="center">
