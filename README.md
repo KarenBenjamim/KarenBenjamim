@@ -27,11 +27,7 @@
 </p>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KarenBenjamim&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KarenBenjamim&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C6FF&line=0072FF&point=ffffff" alt="Contribution graph" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=KarenBenjamim&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -79,6 +75,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=2&width=800" alt="divider" />
 </p>
 
+<!--
+  ⚠️ O GIF original vinha de um link de anexo do Discord (media.discordapp.net),
+  esse tipo de link EXPIRA sozinho — por isso ele provavelmente já estava quebrado.
+  Troque a URL abaixo por um GIF hospedado em algo permanente, tipo:
+  - um arquivo .gif dentro do próprio repositório (ex: assets/karen.gif)
+  - giphy.com (link direto de "Copy Image Link")
+-->
 <p align="center">
   <img align="center" alt="gif" height="160" width="160" src="COLOQUE_AQUI_UM_LINK_PERMANENTE.gif" />
 </p>
